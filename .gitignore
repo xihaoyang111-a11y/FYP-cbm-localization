@@ -1,4 +1,29 @@
 # Byte-compiled / optimized / DLL files
+# Local datasets, annotations, archives, and experiment artifacts
+/data/
+/CUB_200_2011/
+/CUB_dataset_handoff/
+/checkpoints/
+/runs/
+/wandb/
+/outputs/
+*.csv
+*.csv.gz
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.jpg
+*.jpeg
+*.png
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.npy
+*.npz
+
 __pycache__/
 *.py[codz]
 *$py.class
