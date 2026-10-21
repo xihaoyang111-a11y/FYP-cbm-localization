@@ -1,0 +1,10 @@
+{
+  "best_epoch": 99,
+  "best_val_accuracy": 0.5333333611488342,
+  "test_samples": 5794,
+  "top1_accuracy": 0.539696216583252,
+  "top5_accuracy": 0.8652054071426392,
+  "classification_macro_f1": 0.5237415664552448,
+  "concept_micro_f1": 0.5289386729664852,
+  "concept_macro_f1": 0.2581980640197163
+}
